@@ -1,13 +1,17 @@
 body {
-    font-family: "Playfair Display", serif;
+    font-family: "Gowun Batang", serif;
+    background-color: #f0efe0;
+    color: #19113f;
 
 }
 h1,h2 {
-    font-family: "Source Sans 3", serif;
+    font-family: "Lora", serif;
+    color: #19113f;
 
 }
 header {
-    background-image: url(images/yellow-flowers-5038847_1920.jpg);
+    background-image: url(images/sun-3588618_1280.jpg);
+
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -15,4 +19,17 @@ header {
     padding: 2em;
 }
 
+header div {
+    background-color: #3ab458;
+    padding: 1em;
+    width: 25vw;
+    min-width: 95%;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+ 
 
