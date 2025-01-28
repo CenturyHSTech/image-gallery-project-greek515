@@ -15,7 +15,12 @@ header div {
     background-color: #45455F;
     border: 1px solid #394a5b;
     padding: 1em;
- 
+    color:#F2F2F2;
+    
+}
+header div p {
+    background-color: #45455F;
+    color:#F2F2F2;
     
 }
 
@@ -38,7 +43,7 @@ a:link {
   }
 
 a:hover {
-    color: #E1E6EA;
+    color: #7189a1;
 }
 a:visited { 
     color: #DCE3EA;
