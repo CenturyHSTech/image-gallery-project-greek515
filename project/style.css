@@ -1,27 +1,21 @@
 body {
     font-family: "Gowun Batang", serif;
-    background-color: #f0efe0;
-    color: #19113f;
+    background-color: #fffafa;
+    color: #F2F2F2;
 
 }
 h1,h2 {
     font-family: "Lora", serif;
-    color: #19113f;
+    color: #F2F2F2;
 
 }
-header {
-    background-image: url(images/sun-3588618_1280.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    height: 300px;
-    padding: 2em;
-}
+
 
 header div {
-    background-color: #f0efe0;
+    background-color: #45455F;
+    border: 1px solid #394a5b;
     padding: 1em;
-    width: 23vw;
+ 
     
 }
 
@@ -30,6 +24,23 @@ main {
     flex-wrap: wrap;
   }
 
+figure { 
+    width: 400px;
+    background-color: #45455F;
+    padding: 1em;
+    border: 1px solid #394a5b;
+    margin: 18px;
+  }
   
-  
+
+a:link {
+    color: #E5E1E1 ;
+  }
+
+a:hover {
+    color: #E1E6EA;
+}
+a:visited { 
+    color: #DCE3EA;
+}
 
