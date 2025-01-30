@@ -1,12 +1,10 @@
 body {
     font-family: "Gowun Batang", serif;
-    color: #F2F2F2;
 
 }
 h1,h2 {
     font-family: "Lora", serif;
     color: #F2F2F2;
-
 }
 
 
@@ -34,6 +32,7 @@ figure {
     padding: 1em;
     border: 1px solid #394a5b;
     margin: 18px;
+    color:#F2F2F2;
   }
   
 
